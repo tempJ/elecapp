@@ -1,4 +1,5 @@
 # elecapp
+Using electron && vuetifyjs first app
 
 ## Project setup
 ```
